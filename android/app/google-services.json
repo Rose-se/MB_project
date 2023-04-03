@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "688287932029",
+    "project_id": "starwar-e2c2d",
+    "storage_bucket": "starwar-e2c2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688287932029:android:cda4b678ed3b67e774db14",
+        "android_client_info": {
+          "package_name": "com.example.mbappfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688287932029-ltdje190jl1phlg2hae7rhavqqdl2fnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4eBPHhhf0_dq_qRx28DVt0rWJMofpPpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688287932029-ltdje190jl1phlg2hae7rhavqqdl2fnf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "688287932029-q2nkdo94bnd2n1bjtd1b6aur98ln94qu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.starwar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
